@@ -32,6 +32,11 @@ Successor to [bm](https://github.com/nikbrunner/bm), a Go-based TUI bookmark man
 - [livery](https://github.com/black-atom-industries/livery) — theme manager
 - [helm](https://github.com/black-atom-industries/helm) — tmux session and repo management
 
+## Releases
+
+This project uses [release-please](https://github.com/googleapis/release-please) for automated versioning
+and changelog generation via [Conventional Commits](https://www.conventionalcommits.org/).
+
 ## License
 
 MIT
